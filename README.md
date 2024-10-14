@@ -25,7 +25,7 @@ This repository consists of an implementation of Logistic Regression for the cla
 # How to Run 
 1. Clone the repository:
 ```bash
-  git clone https://github.com/MehreenTabassum/Breast-Cancer-Classification-using-Logistic-Regression-.git
+  git clone https://github.com/MehreenTabassum/Breast-Cancer-Classification-using-Logistic-Regression-.git ```
 3. Navigate to the project directory
   cd Breast-Cancer-Classification-using-Logistic-Regression-
 4. Run the Python script:
