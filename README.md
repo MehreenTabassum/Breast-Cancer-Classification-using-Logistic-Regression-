@@ -26,12 +26,12 @@ This repository consists of an implementation of Logistic Regression for the cla
 ## 1. Clone the repository:
 ```bash
 git clone https://github.com/MehreenTabassum/Breast-Cancer-Classification-using-Logistic-Regression-.git
-## 2. Clone the repository
-  ```
-git clone https://github.com/MehreenTabassum/Breast-Cancer-Classification-using-Logistic-Regression-.git
-# Navigate to the project directory
-  ```cd Breast-Cancer-Classification-using-Logistic-Regression-```
-# 3. Run the Python script:
-  ```python logistic_regression.py```
+
+## 2. Navigate to the project directory
+  ```bash
+cd Breast-Cancer-Classification-using-Logistic-Regression-```
+## 3. Run the Python script:
+  ```bash
+python logistic_regression.py
 # Results
 The model achieves good accuracy in classifying benign and malignant tumors. Cross-validation ensures the model's performance is robust, and the confuion matrix highlights correct and incorrect classififcations. 
