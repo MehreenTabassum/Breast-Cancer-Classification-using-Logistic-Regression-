@@ -23,12 +23,12 @@ This repository consists of an implementation of Logistic Regression for the cla
 - `logistic_regression.py`: Python script for loading the dataset, training the logistic regression model, and evaluating it with cross-validation and confusion matrix.
 - `breast_cancer.csv`: Dataset used for model traning and testing.
 # How to Run 
-1. Clone the repository:
-  ```bash
-git clone https://github.com/MehreenTabassum/Breast-Cancer-Classification-using-Logistic-Regression-.git
-3. Navigate to the project directory
-  ```cd Breast-Cancer-Classification-using-Logistic-Regression-
-4. Run the Python script:
-  ```python logistic_regression.py
+# 1. Clone the repository:
+  ```
+git clone https://github.com/MehreenTabassum/Breast-Cancer-Classification-using-Logistic-Regression-.git```
+# 2. Navigate to the project directory
+  ```cd Breast-Cancer-Classification-using-Logistic-Regression-```
+# 3. Run the Python script:
+  ```python logistic_regression.py```
 # Results
 The model achieves good accuracy in classifying benign and malignant tumors. Cross-validation ensures the model's performance is robust, and the confuion matrix highlights correct and incorrect classififcations. 
